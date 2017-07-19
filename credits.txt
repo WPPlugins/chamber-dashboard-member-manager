@@ -1,0 +1,8 @@
+H5Validate:
+https://github.com/ericelliott/h5Validate
+
+jquery timepicker
+http://trentrichardson.com/examples/timepicker/
+
+email template:
+https://github.com/leemunroe/responsive-html-email-template

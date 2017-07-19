@@ -1,0 +1,1070 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Chamber Dashboard Member Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-04-23 15:18-0800\n"
+"PO-Revision-Date: Sat May 09 2015 09:59:44 GMT-0700 (Pacific Standard Time)\n"
+"Last-Translator: adminwpa <webmaster@alchemycs.com>\n"
+"Language-Team: \n"
+"Language: English (Canada)\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Loco-Target-Locale: en_CA"
+
+#: ../cdash-member-manager.php:66
+msgid ""
+"Sorry, but the Chamber Dashboard Member Manager requires the <a href=\"https:"
+"//wordpress.org/plugins/chamber-dashboard-business-directory/\" "
+"target=\"_blank\">Chamber Dashboard Business Directory</a> to be installed and "
+"active."
+msgstr ""
+
+#: ../cdash-member-manager.php:121 ../cdash-member-manager.php:123
+msgid "Membership Statuses"
+msgstr ""
+
+#: ../cdash-member-manager.php:122
+msgid "Membership Status"
+msgstr ""
+
+#: ../cdash-member-manager.php:124
+msgid "All Membership Statuses"
+msgstr ""
+
+#: ../cdash-member-manager.php:125
+msgid "Parent Membership Status"
+msgstr ""
+
+#: ../cdash-member-manager.php:126
+msgid "Parent Membership Status:"
+msgstr ""
+
+#: ../cdash-member-manager.php:127
+msgid "New Membership Status Name"
+msgstr ""
+
+#: ../cdash-member-manager.php:128
+msgid "Add New Membership Status"
+msgstr ""
+
+#: ../cdash-member-manager.php:129
+msgid "Edit Membership Status"
+msgstr ""
+
+#: ../cdash-member-manager.php:130
+msgid "Update Membership Status"
+msgstr ""
+
+#: ../cdash-member-manager.php:131
+msgid "Separate Membership Statuses with commas"
+msgstr ""
+
+#: ../cdash-member-manager.php:132
+msgid "Search Membership Statuses"
+msgstr ""
+
+#: ../cdash-member-manager.php:133
+msgid "Add or remove Membership Statuses"
+msgstr ""
+
+#: ../cdash-member-manager.php:134
+msgid "Choose from the most used Membership Statuses"
+msgstr ""
+
+#: ../cdash-member-manager.php:135 ../cdash-member-manager.php:191
+msgid "Not Found"
+msgstr ""
+
+#: ../cdash-member-manager.php:153
+msgid "Membership is current"
+msgstr ""
+
+#: ../cdash-member-manager.php:162
+msgid "Membership has lapsed due to lack of payment"
+msgstr ""
+
+#: ../cdash-member-manager.php:177 ../cdash-member-manager.php:179
+msgid "Invoice Statuses"
+msgstr ""
+
+#: ../cdash-member-manager.php:178
+msgid "Invoice Status"
+msgstr ""
+
+#: ../cdash-member-manager.php:180
+msgid "All Invoice Statuses"
+msgstr ""
+
+#: ../cdash-member-manager.php:181
+msgid "Parent Invoice Status"
+msgstr ""
+
+#: ../cdash-member-manager.php:182
+msgid "Parent Invoice Status:"
+msgstr ""
+
+#: ../cdash-member-manager.php:183
+msgid "New Invoice Status Name"
+msgstr ""
+
+#: ../cdash-member-manager.php:184
+msgid "Add New Invoice Status"
+msgstr ""
+
+#: ../cdash-member-manager.php:185
+msgid "Edit Invoice Status"
+msgstr ""
+
+#: ../cdash-member-manager.php:186
+msgid "Update Invoice Status"
+msgstr ""
+
+#: ../cdash-member-manager.php:187
+msgid "Separate Invoice Statuses with commas"
+msgstr ""
+
+#: ../cdash-member-manager.php:188
+msgid "Search Invoice Statuses"
+msgstr ""
+
+#: ../cdash-member-manager.php:189
+msgid "Add or remove Invoice Statuses"
+msgstr ""
+
+#: ../cdash-member-manager.php:190
+msgid "Choose from the most used Invoice Statuses"
+msgstr ""
+
+#: ../cdash-member-manager.php:209
+msgid "Invoice has been paid"
+msgstr ""
+
+#: ../cdash-member-manager.php:218
+msgid "Payment initiated, but not completed"
+msgstr ""
+
+#: ../cdash-member-manager.php:227
+msgid "Invoice is overdue"
+msgstr ""
+
+#: ../cdash-member-manager.php:236
+msgid "Invoice is open"
+msgstr ""
+
+#: ../cdash-member-manager.php:245
+msgid ""
+"Invoice is unpaid.  Invoices will automatically be marked unpaid after 4 "
+"months"
+msgstr ""
+
+#: ../cdash-member-manager.php:259 ../cdash-member-manager.php:261
+msgid "Invoices"
+msgstr ""
+
+#: ../cdash-member-manager.php:260
+msgid "Invoice"
+msgstr ""
+
+#: ../cdash-member-manager.php:262
+msgid "Parent Invoice:"
+msgstr ""
+
+#: ../cdash-member-manager.php:263
+msgid "All Invoices"
+msgstr ""
+
+#: ../cdash-member-manager.php:264 ../payment-report.php:183
+msgid "View Invoice"
+msgstr ""
+
+#: ../cdash-member-manager.php:265
+msgid "Add New Invoice"
+msgstr ""
+
+#: ../cdash-member-manager.php:266
+msgid "Add New"
+msgstr ""
+
+#: ../cdash-member-manager.php:267 ../payment-report.php:184
+msgid "Edit Invoice"
+msgstr ""
+
+#: ../cdash-member-manager.php:268
+msgid "Update Invoice"
+msgstr ""
+
+#: ../cdash-member-manager.php:269
+msgid "Search Invoice"
+msgstr ""
+
+#: ../cdash-member-manager.php:270
+msgid "Not found"
+msgstr ""
+
+#: ../cdash-member-manager.php:271
+msgid "Not found in Trash"
+msgstr ""
+
+#: ../cdash-member-manager.php:274
+msgid "invoice"
+msgstr ""
+
+#: ../cdash-member-manager.php:275
+msgid "Invoices for membership dues"
+msgstr ""
+
+#: ../cdash-member-manager.php:509 ../payment-report.php:80
+#: ../payment-report.php:180
+msgid "Invoice #"
+msgstr ""
+
+#: ../cdash-member-manager.php:510 ../payment-report.php:81
+#: ../payment-report.php:181
+msgid "Amount"
+msgstr ""
+
+#: ../cdash-member-manager.php:511 ../includes/invoice_meta.php:73
+msgid "Due Date"
+msgstr ""
+
+#: ../cdash-member-manager.php:617
+msgid "Rank Membership Levels"
+msgstr ""
+
+#: ../cdash-member-manager.php:665
+msgid "Rank Membership Levels "
+msgstr ""
+
+#: ../cdash-member-manager.php:674
+msgid ""
+"Order the membership levels by dragging and dropping them into the desired "
+"order."
+msgstr ""
+
+#: ../cdash-member-manager.php:685
+msgid "Update Order"
+msgstr ""
+
+#: ../cdash-member-manager.php:693
+msgid "No terms found"
+msgstr ""
+
+#: ../cdash-member-manager.php:777
+msgid "Order updated successfully."
+msgstr ""
+
+#: ../cdash-member-manager.php:780
+msgid "An error occured, order has not been saved."
+msgstr ""
+
+#: ../cdash-member-manager.php:944
+msgid "Verification error"
+msgstr ""
+
+#: ../cdash-member-manager.php:953
+msgid "You must select at least one email address!"
+msgstr ""
+
+#: ../cdash-member-manager.php:976 ../views.php:510
+msgid "Invoice from "
+msgstr ""
+
+#: ../cdash-member-manager.php:993
+msgid "Invoice from: "
+msgstr ""
+
+#: ../cdash-member-manager.php:994 ../views.php:673
+msgid "Invoice #: "
+msgstr ""
+
+#: ../cdash-member-manager.php:995
+msgid "Amount: "
+msgstr ""
+
+#: ../cdash-member-manager.php:996
+msgid "Due date: "
+msgstr ""
+
+#: ../cdash-member-manager.php:997
+msgid "View this invoice online: "
+msgstr ""
+
+#: ../cdash-member-manager.php:1003
+msgid "Email sent successfully!"
+msgstr ""
+
+#: ../cdash-member-manager.php:1163
+msgid ""
+"Manage memberships more efficiently with the <strong><a href=\"https:"
+"//chamberdashboard.com/downloads/recurring-payments/?"
+"utm_source=plugin&utm_medium=membership-renewal-box&utm_campaign=member-"
+"manager\" target=\"_blank\">Recurring Payments</a></strong> plugin!"
+msgstr ""
+
+#: ../cdash-member-manager.php:1167
+msgid "Let members sign up for automatic recurring payments"
+msgstr ""
+
+#: ../cdash-member-manager.php:1170
+msgid "Automatically generate and send annual membership invoices"
+msgstr ""
+
+#: ../cdash-member-manager.php:1173
+msgid "Automatically send past due invoice reminders"
+msgstr ""
+
+#: ../includes/aside.php:6
+msgid "We're here to help!"
+msgstr ""
+
+#: ../includes/aside.php:8
+msgid "Chamber Dashboard Documentation"
+msgstr ""
+
+#: ../includes/aside.php:9
+msgid "Installation and Configuration:"
+msgstr ""
+
+#: ../includes/aside.php:9
+msgid ""
+" sit back and let experienced pros configure Chamber Dashboard to do just "
+"what you need"
+msgstr ""
+
+#: ../includes/aside.php:10
+msgid "Priority Support:"
+msgstr ""
+
+#: ../includes/aside.php:10
+msgid " get access to our expertise"
+msgstr ""
+
+#: ../includes/aside.php:11
+msgid "Worry-Free Maintenance:"
+msgstr ""
+
+#: ../includes/aside.php:11
+msgid ""
+" let us take care of maintaining your site, so you can focus on what you do "
+"best!"
+msgstr ""
+
+#: ../includes/aside.php:13
+msgid "More Amazing Plugins"
+msgstr ""
+
+#: ../includes/aside.php:14
+msgid "New! "
+msgstr ""
+
+#: ../includes/aside.php:14
+msgid ""
+"Automate membership renewal <a href=https://chamberdashboard."
+"com/downloads/recurring-payments/?"
+"utm_source=plugin&utm_medium=sidebar&utm_campaign=member-manager\" "
+"target=\"_blank\">Recurring Payments</a> plugin!  Members can sign up for "
+"recurring payments. Automatically send renewal notices and overdue invoice "
+"reminders."
+msgstr ""
+
+#: ../includes/aside.php:15
+msgid ""
+"Engage your community in local events, with our <a href=\"https:"
+"//chamberdashboard.com/features/chamber-dashboard-events-calendar/?"
+"utm_source=plugin&utm_medium=sidebar&utm_campaign=member-manager\" "
+"target=\"_blank\">event calendar</a> plugin."
+msgstr ""
+
+#: ../includes/aside.php:16
+msgid ""
+"<a href=\"https://chamberdashboard.com/features/crm/?"
+"utm_source=plugin&utm_medium=sidebar&utm_campaign=member-manager\" "
+"target=\"_blank\">Track and Catalog your Contacts</a> – Trade your collection "
+"of Excel spreadsheets for a CRM that lets you track calls and meeting "
+"attendance, categorize your contacts, gives your staff shared access to the "
+"same data and more."
+msgstr ""
+
+#: ../includes/aside.php:19
+msgid "Connect"
+msgstr ""
+
+#: ../includes/aside.php:20
+msgid ""
+"<a href=\"https://chamberdashboard.com/chamber-dashboard-user-map/?"
+"utm_source=plugin&utm_medium=sidebar&utm_campaign=member-manager\" "
+"target=\"_blank\">Get On the Map</a> – We have users around the world!  We'd "
+"love to link to your site too."
+msgstr ""
+
+#: ../includes/aside.php:21
+#, c-format
+msgid ""
+"<a href=\"https://www.linkedin.com/groups?"
+"gid=6931264&mostPopular=&trk=tyah&trkInfo=tarId%3A1420845022267%2Ctas%3Achamb"
+"er%20dashboard%2Cidx%3A2-1-2\" target=\"_blank\">Join the User Group</a> – Gain "
+"perspective, share best practices, and find solutions to problems with "
+"experienced Chamber leaders."
+msgstr ""
+
+#: ../includes/invoice_meta.php:6
+msgid "Invoice Number"
+msgstr ""
+
+#: ../includes/invoice_meta.php:14 ../views.php:111
+msgid "Membership Level"
+msgstr ""
+
+#: ../includes/invoice_meta.php:26
+msgid "Cost: "
+msgstr ""
+
+#: ../includes/invoice_meta.php:31
+msgid "Items"
+msgstr ""
+
+#: ../includes/invoice_meta.php:57 ../views.php:196 ../views.php:712
+msgid "Donation"
+msgstr ""
+
+#: ../includes/invoice_meta.php:65
+msgid "Total Amount Due"
+msgstr ""
+
+#: ../includes/invoice_meta.php:80
+msgid "Total Amount Paid"
+msgstr ""
+
+#: ../includes/invoice_meta.php:87 ../payment-report.php:77
+#: ../payment-report.php:179
+msgid "Date Paid"
+msgstr ""
+
+#: ../includes/invoice_meta.php:94
+msgid "Payment Method"
+msgstr ""
+
+#: ../includes/invoice_meta.php:101
+msgid "Transaction ID"
+msgstr ""
+
+#: ../includes/invoice_notification.php:2
+msgid "Make sure you save your invoice before emailing it!"
+msgstr ""
+
+#: ../includes/invoice_notification.php:4
+msgid "Send Invoice Notification To:"
+msgstr ""
+
+#: ../includes/invoice_notification.php:38
+msgid ""
+"Before you can send this invoice, you must connect it to a business (see the "
+"\"Connected Businesses\" box below this one)."
+msgstr ""
+
+#: ../includes/invoice_notification.php:43
+msgid "You must save this invoice before you can send it."
+msgstr ""
+
+#: ../includes/invoice_notification.php:46
+msgid "Send Copy To:"
+msgstr ""
+
+#: ../includes/invoice_notification.php:48
+msgid "Custom Message:"
+msgstr ""
+
+#: ../includes/invoice_notification.php:49
+msgid "Optional. This message will appear at the top of your email."
+msgstr ""
+
+#: ../includes/invoice_notification.php:58
+msgid "Notification history"
+msgstr ""
+
+#: ../includes/invoice_notification.php:65
+msgid "Date"
+msgstr ""
+
+#: ../includes/invoice_notification.php:69
+msgid "Recipient(s)"
+msgstr ""
+
+#: ../includes/membership_renewal.php:3
+msgid "Next Membership Renewal Date"
+msgstr ""
+
+#: ../options.php:24
+msgid "Thank you for your payment!"
+msgstr ""
+
+#: ../options.php:25
+msgid "We appreciate your support!  Payment details are below."
+msgstr ""
+
+#: ../options.php:28
+msgid "We look forward to receiving your payment!"
+msgstr ""
+
+#: ../options.php:44
+msgid "Member Manager Options"
+msgstr ""
+
+#: ../options.php:59
+msgid "Member Manager Settings"
+msgstr ""
+
+#: ../options.php:66
+msgid "PayPal Email Address"
+msgstr ""
+
+#: ../options.php:71
+msgid ""
+"Email address associated with your PayPal account.  Payments will be sent to "
+"this email address."
+msgstr ""
+
+#: ../options.php:77
+msgid "Organization Name"
+msgstr ""
+
+#: ../options.php:82
+msgid "This will appear on your invoice and on the PayPal payment page."
+msgstr ""
+
+#: ../options.php:88
+msgid "Receipt Email Subject"
+msgstr ""
+
+#: ../options.php:93
+msgid "Subject of email to be sent when an invoice is paid."
+msgstr ""
+
+#: ../options.php:99
+msgid "Receipt Email From Name"
+msgstr ""
+
+#: ../options.php:104
+msgid ""
+"Name to appear in the \"From\" field on the receipt email and at the top of "
+"your invoice."
+msgstr ""
+
+#: ../options.php:110
+msgid "Receipt Reply-To Email"
+msgstr ""
+
+#: ../options.php:115
+msgid "Name to appear in the \"From\" field on the receipt email."
+msgstr ""
+
+#: ../options.php:121
+msgid "Receipt Email Message"
+msgstr ""
+
+#: ../options.php:126
+msgid ""
+"Body of email to be sent when an invoice is paid.  This message will be "
+"followed by the transaction details."
+msgstr ""
+
+#: ../options.php:132
+msgid "Pay By Check Email Message"
+msgstr "Pay By Cheque Email Message"
+
+#: ../options.php:137
+msgid ""
+"Body of email to be sent when a member agrees to pay by check.  This message "
+"will be followed by a link to the invoice."
+msgstr ""
+"Body of email to be sent when a member agrees to pay by cheque.  This "
+"message will be followed by a link to the invoice."
+
+#: ../options.php:143
+msgid "Admin Notification Email"
+msgstr ""
+
+#: ../options.php:148
+msgid "Email address that will receive notification of membership payment."
+msgstr ""
+
+#: ../options.php:154
+msgid "Invoice Contact Information"
+msgstr ""
+
+#: ../options.php:159
+msgid ""
+"Enter your organization's name and contact information as you would like to "
+"to appear at the top of your invoices."
+msgstr ""
+
+#: ../options.php:165
+msgid "Invoice Footer"
+msgstr ""
+
+#: ../options.php:170
+msgid ""
+"Payment information, or anything else you want to appear at the bottom of "
+"your invoice."
+msgstr ""
+
+#: ../options.php:176
+msgid "Suggested Donation Amount"
+msgstr ""
+
+#: ../options.php:181
+msgid ""
+"The membership form includes a field for optional donation.  If you want "
+"this field to be pre-filled with a donation amount, enter that amount here "
+"(number only, no currency symbols)."
+msgstr ""
+
+#: ../options.php:187
+msgid "Suggested Donation Text"
+msgstr ""
+
+#: ../options.php:192
+msgid ""
+"This text will appear on the membership form next to the suggested donation "
+"field.  It can include information about how your donation will be used, "
+"such as \"Your donation supports local schools.\""
+msgstr ""
+
+#: ../options.php:198
+msgid "Automatically Lapse Membership?"
+msgstr ""
+
+#: ../options.php:203
+msgid ""
+"If this box is checked, businesses' membership status will be marked as "
+"lapsed if they have an overdue membership invoice."
+msgstr ""
+
+#: ../options.php:454
+msgid "Chamber Dashboard Member Manager"
+msgstr ""
+
+#: ../options.php:475 ../wpp2p/scb/AdminPage.php:467
+msgid "Settings"
+msgstr ""
+
+#: ../payment-report.php:13
+msgid "Payment Report"
+msgstr ""
+
+#: ../payment-report.php:18
+msgid "Select Date Range:"
+msgstr ""
+
+#: ../payment-report.php:26
+msgid "Generate Report"
+msgstr ""
+
+#: ../payment-report.php:32
+msgid "You must enter both a start date and an end date to create a report."
+msgstr ""
+
+#: ../payment-report.php:34
+msgid "The report end date must be after the report begin date."
+msgstr ""
+
+#: ../payment-report.php:70 ../payment-report.php:148
+msgid "Download This Report"
+msgstr ""
+
+#: ../payment-report.php:78
+msgid "Title"
+msgstr ""
+
+#: ../payment-report.php:79 ../payment-report.php:182
+msgid "Business"
+msgstr ""
+
+#: ../payment-report.php:104 ../payment-report.php:117
+msgid "Edit"
+msgstr ""
+
+#: ../payment-report.php:105 ../payment-report.php:118
+msgid "View"
+msgstr ""
+
+#: ../payment-report.php:138
+msgid "Total: "
+msgstr ""
+
+#: ../payment-report.php:185
+msgid "View Business"
+msgstr ""
+
+#: ../payment-report.php:186
+msgid "Edit Business"
+msgstr ""
+
+#: ../paypal-ipn.php:65
+msgid "Problem with PayPal transaction"
+msgstr ""
+
+#: ../paypal-ipn.php:66
+msgid ""
+"The Chamber Dashboard Member Manager encountered the following error trying "
+"to process a PayPal payment on your site, "
+msgstr ""
+
+#: ../paypal-ipn.php:68
+msgid "Please contact Chamber Dashboard support for assistance."
+msgstr ""
+
+#: ../paypal-ipn.php:125
+msgid "Recurring payment from "
+msgstr ""
+
+#: ../paypal-ipn.php:130
+msgid "This invoice was automatically generated by a PayPal recurring payment."
+msgstr ""
+
+#: ../paypal-ipn.php:178
+msgid ""
+"Chamber Dashboard couldn't find the member or the invoice associated with "
+"this transaction in the database."
+msgstr ""
+
+#: ../paypal-ipn.php:251
+msgid "Transaction details: "
+msgstr ""
+
+#: ../paypal-ipn.php:252 ../paypal-ipn.php:267 ../views.php:521
+msgid "Payment amount: "
+msgstr ""
+
+#: ../paypal-ipn.php:253
+msgid "Payment date: "
+msgstr ""
+
+#: ../paypal-ipn.php:254 ../paypal-ipn.php:268 ../views.php:512
+#: ../views.php:522
+msgid "View the invoice: "
+msgstr ""
+
+#: ../paypal-ipn.php:257
+msgid ""
+"You have signed up for automatic recurring payments through PayPal.  If you "
+"need to cancel this recurring payment, you can do so by finding the \"My "
+"preapproved payments\" page of your PayPal account."
+msgstr ""
+
+#: ../paypal-ipn.php:265
+msgid "New Payment Received"
+msgstr ""
+
+#: ../paypal-ipn.php:266
+msgid "You have just received a new payment from "
+msgstr ""
+
+#: ../paypal-ipn.php:272 ../views.php:524
+msgid "View the business: "
+msgstr ""
+
+#: ../paypal-ipn.php:274 ../views.php:526
+msgid ""
+"is a new business, so you need to publish the new business before it will "
+"appear in your member directory."
+msgstr ""
+
+#: ../paypal-ipn.php:278
+msgid "This business has signed up for automatic recurring payments."
+msgstr ""
+
+#: ../views.php:42
+msgid " per year"
+msgstr ""
+
+#: ../views.php:74
+msgid ""
+"You have not entered in your currency settings.  In your WordPress dashboard,"
+" go to the Chamber Dashboard settings page to select what currency you "
+"accept."
+msgstr ""
+
+#: ../views.php:78
+msgid "* = Required"
+msgstr ""
+
+#: ../views.php:81
+msgid "Business Name"
+msgstr ""
+
+#: ../views.php:87
+msgid "Billing Address"
+msgstr ""
+
+#: ../views.php:91
+msgid "City"
+msgstr ""
+
+#: ../views.php:95
+msgid "State/Province"
+msgstr "Province"
+
+#: ../views.php:99
+msgid "Zip/Postal Code"
+msgstr "Postal Code"
+
+#: ../views.php:103
+msgid "Email"
+msgstr ""
+
+#: ../views.php:107
+msgid "Phone Number"
+msgstr ""
+
+#: ../views.php:144
+msgid "Optional Donation"
+msgstr ""
+
+#: ../views.php:152
+msgid "Total Due: "
+msgstr ""
+
+#: ../views.php:156
+msgid "Payment Method: "
+msgstr ""
+
+#: ../views.php:157
+msgid "PayPal"
+msgstr ""
+
+#: ../views.php:158
+msgid "Check"
+msgstr "Cheque"
+
+#: ../views.php:174
+msgid "Pay Now"
+msgstr ""
+
+#: ../views.php:194
+msgid "Membership"
+msgstr ""
+
+#: ../views.php:243
+msgid ""
+"It looks like your business is already in our database!  To verify, select "
+"your business below:"
+msgstr ""
+
+#: ../views.php:423
+msgid "This business draft was automatically generated by the membership form."
+msgstr ""
+
+#: ../views.php:462
+msgid "Membership for "
+msgstr ""
+
+#: ../views.php:463
+msgid "This invoice was automatically generated by the membership form."
+msgstr ""
+
+#: ../views.php:519
+msgid "New Payment By Check"
+msgstr "New Payment By Cheque"
+
+#: ../views.php:520
+msgid " has just filled out your membership form, and has agree to pay by check."
+msgstr " has just filled out your membership form, and has agreed to pay by cheque."
+
+#: ../views.php:538
+msgid "No payment method selected"
+msgstr ""
+
+#: ../views.php:632
+msgid ""
+"This invoice does not have a business associated with it.  You need to edit "
+"the invoice and add a business."
+msgstr ""
+
+#: ../views.php:650
+msgid "Invoice due on receipt"
+msgstr ""
+
+#: ../views.php:658 ../views.php:772
+msgid "Print Invoice"
+msgstr ""
+
+#: ../views.php:674
+msgid "Issue Date: "
+msgstr ""
+
+#: ../views.php:675
+msgid "Due Date: "
+msgstr ""
+
+#: ../views.php:676
+msgid "Status: "
+msgstr ""
+
+#: ../views.php:678
+msgid "Paid Date: "
+msgstr ""
+
+#: ../views.php:695
+msgid "Membership: "
+msgstr ""
+
+#: ../views.php:718
+msgid "Total"
+msgstr ""
+
+#: ../views.php:767
+msgid "Pay Now With PayPal"
+msgstr ""
+
+#: ../wpp2p/admin/box.php:48
+msgid "Are you sure you want to delete all connections?"
+msgstr ""
+
+#: ../wpp2p/admin/box.php:140
+msgid "Search"
+msgstr ""
+
+#: ../wpp2p/admin/box.php:230
+msgid "previous"
+msgstr ""
+
+#: ../wpp2p/admin/box.php:231
+msgid "next"
+msgstr ""
+
+#: ../wpp2p/admin/box.php:232
+msgid "of"
+msgstr ""
+
+#: ../wpp2p/admin/dropdown-user.php:32
+msgid "Filter"
+msgstr ""
+
+#: ../wpp2p/admin/factory.php:88
+msgid " (from)"
+msgstr ""
+
+#: ../wpp2p/admin/factory.php:89
+msgid " (to)"
+msgstr ""
+
+#: ../wpp2p/admin/field-delete.php:7
+msgid "Delete all connections"
+msgstr ""
+
+#: ../wpp2p/admin/field-delete.php:16
+msgid "Delete connection"
+msgstr ""
+
+#: ../wpp2p/admin/tools-page.php:7
+msgid "Connection Types"
+msgstr ""
+
+#: ../wpp2p/admin/tools-page.php:41
+#, php-format
+msgid "<em>%s</em> is not a registered connection type."
+msgstr ""
+
+#: ../wpp2p/admin/tools-page.php:50
+#, php-format
+msgid "Converted %1$s connections from <em>%2$s</em> to <em>%3$s</em>."
+msgstr ""
+
+#: ../wpp2p/admin/tools-page.php:64
+msgid "Name"
+msgstr ""
+
+#: ../wpp2p/admin/tools-page.php:65
+msgid "Information"
+msgstr ""
+
+#: ../wpp2p/admin/tools-page.php:66
+msgid "Connections"
+msgstr ""
+
+#: ../wpp2p/admin/tools-page.php:74
+msgid "No connection types registered."
+msgstr ""
+
+#: ../wpp2p/admin/tools-page.php:76
+#, php-format
+msgid "To register a connection type, see <a href=\"%s\">the wiki</a>."
+msgstr ""
+
+#: ../wpp2p/admin/tools-page.php:93
+msgid "Convert to registered connection type:"
+msgstr ""
+
+#: ../wpp2p/admin/tools-page.php:129
+msgid "Go"
+msgstr ""
+
+#: ../wpp2p/connection-type.php:91
+msgid "Create connections"
+msgstr ""
+
+#: ../wpp2p/connection-type.php:109
+#, php-format
+msgid "Connected %s"
+msgstr ""
+
+#: ../wpp2p/scb/AdminPage.php:228
+msgid "Settings <strong>saved</strong>."
+msgstr ""
+
+#: ../wpp2p/side-user.php:16
+msgid "Users"
+msgstr ""
+
+#: ../wpp2p/side-user.php:25
+msgid "User"
+msgstr ""
+
+#: ../wpp2p/side-user.php:26
+msgid "Search Users"
+msgstr ""
+
+#: ../wpp2p/side-user.php:27
+msgid "No users found."
+msgstr ""
+
+#: ../wpp2p/widget.php:19
+msgid "Posts 2 Posts"
+msgstr ""
+
+#: ../wpp2p/widget.php:20
+msgid "A list of posts connected to the current post"
+msgstr ""
+
+#: ../wpp2p/widget.php:37
+msgid "Title:"
+msgstr ""
+
+#: ../wpp2p/widget.php:44
+msgid "Connection type:"
+msgstr ""
+
+#: ../wpp2p/widget.php:49
+msgid "Connection listing:"
+msgstr ""
+
+#: ../wpp2p/widget.php:55
+msgid "connected"
+msgstr ""
+
+#: ../wpp2p/widget.php:56
+msgid "related"
+msgstr ""
